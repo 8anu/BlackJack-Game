@@ -1,11 +1,20 @@
 body{
   text-align: center;
+  display:flex;
+  flex-direction:column;
   color:black;
   background-size: cover;
-  background-color: green;
+  background-color: green;  
+}
+button {
+  color: black;
+  margin-left:30%;
+  margin-right:30%;
+  margin-top:10px;
+  background:sandybrown;
+  
   
 }
-
 h1{
   color:darkgoldenrod;
 }
